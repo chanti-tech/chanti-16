@@ -9,4 +9,8 @@ This is the line from my feature branch.
 
 This is another line.
 
+<<<<<<< HEAD
 Extra line
+=======
+huhhhh
+>>>>>>> test
